@@ -1,2 +1,2 @@
-#redes_forms-main
- https://vitorduque.github.io/rede_forms/
+# redes_forms
+Exemplo HTML,, CSS e JavaScript além do Google Forms
